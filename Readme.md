@@ -24,7 +24,7 @@ When using the dataset to test the performance of LLMs, use files in <code>promp
 ## RQ3\_dataset
 <code>dataset\RQ2\_dataset</code> stores GUI pages and widget selection prompts used in RQ3 and RQ4.
 
-There are 3 folders: prompt, random, choice
+There are 3 folders: prompt, random, choice; with an additional file "list.csv" to store the GUI information complexity of the 15 pages.
 
 ### prompt
 As mentioned in our paper, we create 28 experimental control pages for each original page, comprising: the original page(page index 0), 15 pages with information absence at three levels (5 pages each at 10%, 40%, and 70%, with page index 1-5, 6-10, 11-15 respectively), 5 with information duplication(page index 16-20), 5 with information inconsistency(page index 21-25), 1 with lightly enhanced widget information(page index 26), and 1 with highly enhanced(page index 27). 
@@ -33,7 +33,7 @@ All files are named with <code> "dataset" + app.name + "\_" + string(GUI\_index)
 ### random
 Files in this folder store the accessibility categories of widgets. There are two types of file, respectively named with <code> "random" + app.name + "\_" + string(GUI\_index) + "\_.csv" </code> and <code> "Trandom" + app.name + "\_" + string(GUI\_index) + "\_.csv" </code>. The second one is the traversal of the first one, which can be used more efficient. 
 
-All random files are tables with 26 columns. Except for the first row serving as serial numbers, each subsequent row sequentially displays the accessibility status of a widget. Apart from the first column serving as the header, each subsequent column presents the accessibility status of a page, with the 25 columns corresponding sequentially to page indices 1 through 25. Accessibility is stored as floating-point numbers, where 0 indicates no accessibility issues, 1 represents information absence, the interval [2,3) denotes information duplication, and 3 signifies information inconsistency. Floating-point numbers are used to facilitate the pairing of information duplication.
+All Trandom files are tables with 26 rows. Except for the first column serving as serial numbers, each subsequent column sequentially displays the accessibility status of a widget. Apart from the first row serving as the header, each subsequent row presents the accessibility status of a page, with the 25 rows corresponding sequentially to page indices 1 through 25. Accessibility is stored as floating-point numbers, where 0 indicates no accessibility issues, 1 represents information absence, the interval [2,3) denotes information duplication, and 3 signifies information inconsistency. Floating-point numbers are used to facilitate the pairing of information duplication.
 
 ### choice
 Similar as RQ2, <code> choice </code> stores the choice segment of each GUI page, with each line represents a possibie choice. Files are named with <code> "choice" + app.name + "\_" + string(GUI\_index) + "\_.txt" </code>, where <code>app.name</code> is the name of the application, <code>string(GUI\_index)</code> is the index of this GUI page, which is an integer. Note that information absence experiments have different choice lists as others, for page index from 1 to 15, we use files named with <code> "choice" + app.name + "\_" + string(GUI\_index) + "\_" + string(page\_index) +".txt" </code> instead of normal choice files.
