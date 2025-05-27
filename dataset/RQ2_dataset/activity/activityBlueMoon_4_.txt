@@ -1,0 +1,14 @@
+
+We want to test "BlueMoon" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7].
+Unknown1 has texts include [Bleeding, 🩸].
+Unknown2 has texts include [Sex, 💕].
+Unknown3 has texts include [SPOTTING].
+Unknown4 has texts include [LIGHT].
+Unknown5 has texts include [MEDIUM].
+Unknown6 has texts include [HEAVY].
+Unknown7 has texts include [Save Data].
+The edit_texts in this activity is [].
+

@@ -1,0 +1,19 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [back to last page].
+Unknown2 has texts include [Tracker name].
+Unknown3 has texts include [Add a longer description (optional)].
+Unknown4 has texts include [This is a time or duration].
+Unknown5 has texts include [Off].
+Unknown6 has texts include [Advanced options].
+Unknown7 has texts include [Set a default value].
+Unknown8 has texts include [Off].
+Unknown9 has texts include [Label only].
+Unknown10 has texts include [Label ascending].
+Unknown11 has texts include [Create].
+The edit_texts in this activity is [Unknown12, Unknown13].
+Unknown12 has texts include [Tracker name].
+Unknown13 has texts include [Add a longer description (optional)].

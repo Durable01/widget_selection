@@ -1,0 +1,36 @@
+
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, text-input-outlined_2, Unknown3, button_4, button_5, text-input-outlined_6, Unknown7, Unknown8, Unknown9].
+Unknown1 has texts include [back].
+text-input-outlined_2 has texts include [User, Your Name].
+Unknown3 has texts include [En, Language].
+button_4 has texts include [Export].
+button_5 has texts include [Import].
+text-input-outlined_6 has texts include [5, Laundry reminder, n].
+Unknown7 has texts include [times, This will remind you to put an item in the laundry after n number of uses].
+Unknown8 has texts include [Daily logging reminder].
+Unknown9 has texts include [Enable heatMap].
+The edit_texts in this activity is [Unknown10, Unknown11].
+Unknown10 has texts include [User, Your Name].
+Unknown11 has texts include [5, Laundry reminder, n].
+
+I want to turn on enable heatmap, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click text-input-outlined_2
+3: Click Unknown3
+4: Click button_4
+5: Click button_5
+6: Click text-input-outlined_6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: input texts in Unknown10
+11: input texts in Unknown11
+
+Answer:
+###

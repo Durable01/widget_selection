@@ -1,0 +1,41 @@
+1: Click Unknown1
+2: Click action_save_2
+3: Click Unknown3
+4: Click medication_name_4
+5: Click remove_5
+6: Click dose_6
+7: Click quantity_morning_7
+8: Click quantity_noon_8
+9: Click quantity_evening_9
+10: Click quantity_night_10
+11: Click medication_name_11
+12: Click remove_12
+13: Click dose_13
+14: Click quantity_morning_14
+15: Click quantity_noon_15
+16: Click quantity_evening_16
+17: Click quantity_night_17
+18: Click medication_name_18
+19: Click remove_19
+20: Click dose_20
+21: Click quantity_morning_21
+22: Click quantity_noon_22
+23: Click quantity_evening_23
+24: Click quantity_night_24
+25: Click btn_back_25
+26: Click btn_next_26
+27: input texts in btn_next_27
+28: input texts in btn_next_28
+29: input texts in btn_next_29
+30: input texts in btn_next_30
+31: input texts in btn_next_31
+32: input texts in btn_next_32
+33: input texts in btn_next_33
+34: input texts in btn_next_34
+35: input texts in btn_next_35
+36: input texts in btn_next_36
+37: input texts in btn_next_37
+38: input texts in btn_next_38
+39: input texts in btn_next_39
+40: input texts in btn_next_40
+41: input texts in btn_next_41

@@ -1,0 +1,13 @@
+task,right_answer,acce
+I want to open main menu,2,2
+I want to add meal,2,0
+I want to change month from "June" to "July",4,0
+I want to change category,5,0
+I want to search one meal called "Fried Chicken",6,0
+I want to search one meal called "Fried Chicken",14,0
+I want to sort meals by name,7,0
+I want to filter light meals,8,0
+I want to filter meat meals,9,0
+I want to filter start meals,10,0
+I want to filter end meals,11,0
+I want to filter source meals,12,0

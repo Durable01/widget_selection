@@ -1,0 +1,12 @@
+
+We want to test "mHabit" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [Day].
+Unknown5 has texts include [].
+The edit_texts in this activity is [].
+

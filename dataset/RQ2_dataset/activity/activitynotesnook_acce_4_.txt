@@ -1,0 +1,18 @@
+
+We want to test "notesnook" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [left_1, icon-search_2, Unknown3, Unknown4, Unknown5, icon-compact-mode_6, note-item-0_7, listitem.menu_8, note-item-1_9, listitem.menu_10, buttons.add_11].
+left_1 has texts include [navigate].
+icon-search_2 has texts include [search].
+Unknown3 has texts include [You are not logged in, Login to encrypt and sync notes].
+Unknown4 has texts include [Recent].
+Unknown5 has texts include [Default].
+icon-compact-mode_6 has texts include [show mode, list].
+note-item-0_7 has texts include [2024-06-09, Play ping-pong with classmates, 8m].
+listitem.menu_8 has texts include [2024-06-09, more info].
+note-item-1_9 has texts include [2024-06-10, Today I'm fill with happy., 9m].
+listitem.menu_10 has texts include [2024-06-10, more info].
+buttons.add_11 has texts include [add new].
+The edit_texts in this activity is [].
+

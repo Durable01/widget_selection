@@ -1,0 +1,37 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [Language, System].
+Unknown3 has texts include [Display].
+Unknown4 has texts include [Date Format, 10/06/2024 (dd/MM/yyyy)].
+Unknown5 has texts include [Long Date Format, Mon, Jun 10 (EEE, MMM d)].
+Unknown6 has texts include [Time Format, 12 hours].
+Unknown7 has texts include [First Day of Week, Monday].
+Unknown8 has texts include [Show Seconds].
+Unknown9 has texts include [Show seconds, Off].
+Unknown10 has texts include [Time Picker, Dial].
+Unknown11 has texts include [Duration Picker, Rings].
+Unknown12 has texts include [Swipe Action, Card Actions].
+The edit_texts in this activity is [].
+
+I want to change long date format, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+
+Answer:
+###

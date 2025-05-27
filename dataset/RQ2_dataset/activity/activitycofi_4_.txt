@@ -1,0 +1,19 @@
+
+We want to test "cofi" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown1 has texts include [Add coffee, 30g, 0:05].
+Unknown2 has texts include [Add water, 60g, 0:05].
+Unknown3 has texts include [Swirl, 0:05].
+Unknown4 has texts include [Wait, 0:35].
+Unknown5 has texts include [Add water, 240g, 0:30].
+Unknown6 has texts include [Add water, 200g, 0:30].
+Unknown7 has texts include [Swirl, 0:05].
+Unknown8 has texts include [].
+Unknown9 has texts include [].
+Unknown10 has texts include [].
+Unknown11 has texts include [].
+Unknown12 has texts include [].
+The edit_texts in this activity is [].
+

@@ -1,0 +1,25 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6].
+Unknown1 has texts include [Back to last page].
+Unknown2 has texts include [Sound settings, Set Melody, Default. You can set what music will be played when this alarm activited].
+Unknown3 has texts include [Sound settings, Set Audio Channel, Alarm.].
+Unknown4 has texts include [100.0, Set Volume value. By clicking this, you can check what the volume is, but you cannot change it].
+Unknown5 has texts include [Open Rising Volume, Off. If it is open, the volume will increase as the alarm activited].
+Unknown6 has texts include [Open Vibration, Off. If it is open, the phone will vibrate when the alarm activited, and you can set the type of vibration].
+The edit_texts in this activity is [Unknown7].
+Unknown7 has texts include [100.0, Volume input text. If you want to change the volume, you should interact with this widget].
+I want to turn on rising volume, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: input texts in Unknown9

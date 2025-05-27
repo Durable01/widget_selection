@@ -1,0 +1,30 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10].
+Unknown1 has texts include [Alarm, Settings page].
+Unknown2 has texts include [No alarms created now].
+Unknown3 has texts include [Alarm, Filter by Date. You can get alarms by date, for example, activited on Tuesday].
+Unknown4 has texts include [Alarm, Filter by State. You can get alarms by state, for example, not activited alarms].
+Unknown5 has texts include [Alarm, Filter by Tags. You can get alarms by tags, for example, alarms reminding you to have a class].
+Unknown6 has texts include [Alarm, Filter by Sort. You can get alarms list sorted, for example, alarms ascending by time].
+Unknown7 has texts include [Alarm page, Tab 1 of 4. You can manage your alarms in this page].
+Unknown8 has texts include [Clock page, Tab 2 of 4. You can get a big clock with hour, minute and second].
+Unknown9 has texts include [Timer page, Tab 3 of 4. You can get times around the world, for example, what is the time in London].
+Unknown10 has texts include [Stopwatch page, Tab 4 of 4. You can use stopwatch function in this page].
+The edit_texts in this activity is [].
+
+I want to check default tags, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10

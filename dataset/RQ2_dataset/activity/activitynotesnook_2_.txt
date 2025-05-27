@@ -1,0 +1,40 @@
+
+We want to test "notesnook" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [root_1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, tool-bold_12, tool-italic_13, tool-underline_14, tool-more_15, Unknown16, tool-minus_17, tool-plus_18, Unknown19, Unknown20, tool-checklist_21, tool-numberedList_22, tool-chevronUp_23, tool-bulletList_24, tool-chevronUp_25, tool-link_26, tool-noteLink_27, tool-alignLeft_28, tool-ltr_29, tool-formatClear_30, Unknown31].
+root_1 has texts include [2, Add a tag, 2024-06-09, 2024-06-09, 4 words, 10-06-2024 08:43 PM, Saved, Play ping-pong with classmates, Bold, Italic, Underline, More, Click to reset Font size, Decrease Font size, 16px, Increase Font size, Paragraph, Sans-serif, Checklist, Numbered list, Bullet list, Link, Add bi-directional note link, Alignment, Text direction, Clear all formatting].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [].
+Unknown5 has texts include [2].
+Unknown6 has texts include [].
+Unknown7 has texts include [Add a tag].
+Unknown8 has texts include [2024-06-09].
+Unknown9 has texts include [Play ping-pong with classmates].
+Unknown10 has texts include [].
+Unknown11 has texts include [].
+tool-bold_12 has texts include [Bold].
+tool-italic_13 has texts include [Italic].
+tool-underline_14 has texts include [Underline].
+tool-more_15 has texts include [More].
+Unknown16 has texts include [Click to reset Font size, Decrease Font size, 16px, Increase Font size].
+tool-minus_17 has texts include [Decrease Font size].
+tool-plus_18 has texts include [Increase Font size].
+Unknown19 has texts include [Paragraph].
+Unknown20 has texts include [Sans-serif].
+tool-checklist_21 has texts include [Checklist].
+tool-numberedList_22 has texts include [Numbered list].
+tool-chevronUp_23 has texts include [].
+tool-bulletList_24 has texts include [Bullet list].
+tool-chevronUp_25 has texts include [].
+tool-link_26 has texts include [Link].
+tool-noteLink_27 has texts include [Add bi-directional note link].
+tool-alignLeft_28 has texts include [Alignment].
+tool-ltr_29 has texts include [Text direction].
+tool-formatClear_30 has texts include [Clear all formatting].
+Unknown31 has texts include [].
+The edit_texts in this activity is [Unknown32, Unknown33, Unknown34].
+Unknown32 has texts include [2024-06-09].
+Unknown33 has texts include [Play ping-pong with classmates].
+Unknown34 has texts include [].

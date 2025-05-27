@@ -1,0 +1,86 @@
+
+We want to test "Trale" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17, Unknown18, Unknown19, Unknown20, Unknown21, Unknown22, Unknown23, Unknown24, Unknown25, Unknown26, Unknown27, Unknown28, Unknown29, Unknown30, Unknown31, Unknown32, Unknown33, Unknown34, Unknown35].
+Unknown1 has texts include [].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [].
+Unknown5 has texts include [Black, Change background color to true black for dark mode.].
+Unknown6 has texts include [System default].
+Unknown7 has texts include [Português].
+Unknown8 has texts include [Bokmål].
+Unknown9 has texts include [Lietuvių].
+Unknown10 has texts include [汉语].
+Unknown11 has texts include [język polski].
+Unknown12 has texts include [Suomi].
+Unknown13 has texts include [Español].
+Unknown14 has texts include [error].
+Unknown15 has texts include [English].
+Unknown16 has texts include [Deutsch].
+Unknown17 has texts include [Italiano].
+Unknown18 has texts include [Français].
+Unknown19 has texts include [Český Jazyk].
+Unknown20 has texts include [System default].
+Unknown21 has texts include [조선말].
+Unknown22 has texts include [].
+Unknown23 has texts include [].
+Unknown24 has texts include [kg].
+Unknown25 has texts include [lb].
+Unknown26 has texts include [st].
+Unknown27 has texts include [kg].
+Unknown28 has texts include [].
+Unknown29 has texts include [].
+Unknown30 has texts include [].
+Unknown31 has texts include [].
+Unknown32 has texts include [].
+Unknown33 has texts include [].
+Unknown34 has texts include [].
+Unknown35 has texts include [].
+The edit_texts in this activity is [Unknown36, Unknown37].
+Unknown36 has texts include [System default].
+Unknown37 has texts include [kg].
+I want to change the units to "lb", then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+15: Click Unknown15
+16: Click Unknown16
+17: Click Unknown17
+18: Click Unknown18
+19: Click Unknown19
+20: Click Unknown20
+21: Click Unknown21
+22: Click Unknown22
+23: Click Unknown23
+24: Click Unknown24
+25: Click Unknown25
+26: Click Unknown26
+27: Click Unknown27
+28: Click Unknown28
+29: Click Unknown29
+30: Click Unknown30
+31: Click Unknown31
+32: Click Unknown32
+33: Click Unknown33
+34: Click Unknown34
+35: Click Unknown35
+36: input texts in Unknown36
+37: input texts in Unknown37
+
+Answer:
+###

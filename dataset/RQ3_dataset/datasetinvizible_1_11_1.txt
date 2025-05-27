@@ -1,0 +1,31 @@
+
+We want to test "invizible" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, item_root_2, item_unlock_3, Unknown4, Unknown5, Unknown6, Unknown7, chbHideIpMainFragment_8, chbProtectDnsMainFragment_9, chbAccessITPMainFragment_10, btnStartMainFragment_11].
+Unknown1 has texts include [Open navigation drawer].
+item_root_2 has texts include [Root].
+item_unlock_3 has texts include [Child Lock].
+Unknown4 has texts include [More options].
+Unknown5 has texts include [DNS, DNS].
+Unknown6 has texts include [TOR, TOR].
+Unknown7 has texts include [I2P, I2P].
+chbHideIpMainFragment_8 has texts include [Hide IP with TOR].
+chbProtectDnsMainFragment_9 has texts include [Defend with DNSCRYPT].
+chbAccessITPMainFragment_10 has texts include [Access to I2P network with Purple I2P].
+btnStartMainFragment_11 has texts include [START].
+The edit_texts in this activity is [].
+I want to change the root, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click item_root_2
+3: Click item_unlock_3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click chbHideIpMainFragment_8
+9: Click chbProtectDnsMainFragment_9
+10: Click chbAccessITPMainFragment_10
+11: Click btnStartMainFragment_11

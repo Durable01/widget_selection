@@ -1,0 +1,25 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [Melody, Default].
+Unknown3 has texts include [Audio Channel, Alarm].
+Unknown4 has texts include [100.0, Volume].
+Unknown5 has texts include [Rising Volume, Off].
+Unknown6 has texts include [Vibration, Off].
+The edit_texts in this activity is [Unknown7].
+Unknown7 has texts include [Open Discord webside].
+I want to change the melody, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: input texts in Unknown9

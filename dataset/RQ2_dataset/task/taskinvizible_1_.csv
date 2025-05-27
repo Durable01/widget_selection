@@ -1,0 +1,12 @@
+task,right_answer,acce
+I want to open navigation drawer,1,0
+I want to open root,2,0
+I want to open child lock,3,0
+I want to check more options,4,0
+I want to go to DNS page,5,0
+I want to go to TOR page,6,0
+I want to go to I2P page,7,0
+I want to switch off hide IP with TOR,8,0
+I want to switch on defend with DNSCRYPT,9,0
+I want to access to I2P network with purple I2P,10,0
+I want to start,11,0

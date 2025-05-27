@@ -1,0 +1,11 @@
+task,right_answer,acce
+I want to set the icon of this recipe,1,1
+I want to set name of this recipe "cappuccino",2,0
+I want to set name of this recipe "cappuccino",10,0
+I want to add description,3,0
+I want to add coffee,4,0
+I want to add water,5,0
+I want to wait,6,0
+I want to add other drinks,7,0
+I want to back to last page,8,1
+I want to save page,9,1

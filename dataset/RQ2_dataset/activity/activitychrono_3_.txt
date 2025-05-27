@@ -1,0 +1,20 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [Cancel].
+Unknown3 has texts include [Save].
+Unknown4 has texts include [7:10, PM].
+Unknown5 has texts include [Label, Add a label].
+Unknown6 has texts include [Type, Once].
+Unknown7 has texts include [Delete After Dismiss].
+Unknown8 has texts include [Delete After Dismiss, Off].
+Unknown9 has texts include [Sound and Vibration, More].
+Unknown10 has texts include [Melody, Default].
+Unknown11 has texts include [Vibration].
+Unknown12 has texts include [].
+Unknown13 has texts include [Snooze, More, Vibration, off].
+The edit_texts in this activity is [].
+

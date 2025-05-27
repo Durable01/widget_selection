@@ -1,0 +1,47 @@
+
+
+We want to test "notesnook" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Notes_1, Notebooks_2, Favorites_3, Tags_4, Reminders_5, Monographs_6, Trash_7, Unknown8, Unknown9, Unknown10, Unknown11, left_12, Unknown13, Unknown14, note-item-0_15, note-item-1_16].
+Notes_1 has texts include [Notes].
+Notebooks_2 has texts include [Notebooks].
+Favorites_3 has texts include [Favorites].
+Tags_4 has texts include [Tags].
+Reminders_5 has texts include [Reminders].
+Monographs_6 has texts include [Monographs].
+Trash_7 has texts include [Trash].
+Unknown8 has texts include [tips].
+Unknown9 has texts include [Settings, Not logged in].
+Unknown10 has texts include [night mode].
+Unknown11 has texts include [exit].
+left_12 has texts include [navigate].
+Unknown13 has texts include [You are not logged in, Login to encrypt and sync notes].
+Unknown14 has texts include [Recent, Recent].
+note-item-0_15 has texts include [2024-06-09, Play ping-pong with classmates, 4m, 2024-06-09, Play ping-pong with classmates, 4m, 󰇘].
+note-item-1_16 has texts include [2024-06-10, Today I'm fill with happy., 4m, 2024-06-10, Today I'm fill with happy., 4m, 󰇘].
+The edit_texts in this activity is [].
+
+
+I want to manage my favorites, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Notes_1
+2: Click Notebooks_2
+3: Click Favorites_3
+4: Click Tags_4
+5: Click Reminders_5
+6: Click Monographs_6
+7: Click Trash_7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click left_12
+13: Click Unknown13
+14: Click Unknown14
+15: Click note-item-0_15
+16: Click note-item-1_16
+
+Answer:
+###

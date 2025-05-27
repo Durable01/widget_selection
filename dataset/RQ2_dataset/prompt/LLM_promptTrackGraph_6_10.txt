@@ -1,0 +1,40 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, add_reminder_2, reminderNameText_3, timeText_4, deleteButton_5, monBox_6, tueBox_7, wedBox_8, thuBox_9, friBox_10, satBox_11, sunBox_12, saveChangesButton_13].
+Unknown1 has texts include [Open].
+add_reminder_2 has texts include [Add].
+reminderNameText_3 has texts include [Time to track!].
+timeText_4 has texts include [21:17].
+deleteButton_5 has texts include [Delete Reminder].
+monBox_6 has texts include [Mon].
+tueBox_7 has texts include [Tue].
+wedBox_8 has texts include [Wen].
+thuBox_9 has texts include [Thu].
+friBox_10 has texts include [Fri].
+satBox_11 has texts include [Sat].
+sunBox_12 has texts include [Sun].
+saveChangesButton_13 has texts include [SAVE CHANGES].
+The edit_texts in this activity is [saveChangesButton_14].
+saveChangesButton_14 has texts include [Time to track!].
+I want to open this reminder on Wednesday, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click add_reminder_2
+3: Click reminderNameText_3
+4: Click timeText_4
+5: Click deleteButton_5
+6: Click monBox_6
+7: Click tueBox_7
+8: Click wedBox_8
+9: Click thuBox_9
+10: Click friBox_10
+11: Click satBox_11
+12: Click sunBox_12
+13: Click saveChangesButton_13
+14: input texts in saveChangesButton_14
+
+Answer:
+###

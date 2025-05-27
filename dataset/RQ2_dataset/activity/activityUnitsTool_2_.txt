@@ -1,0 +1,20 @@
+
+We want to test "UnitsTool" app. 
+The current page is ".MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14].
+Unknown1 has texts include [, ].
+Unknown2 has texts include [, Distance, (9 units), Distance, (9 units)].
+Unknown3 has texts include [, Weight, (5 units), Weight, (5 units)].
+Unknown4 has texts include [, Temperature, (3 units), Temperature, (3 units)].
+Unknown5 has texts include [, Liquid, (6 units), Liquid, (6 units)].
+Unknown6 has texts include [, Surface, (5 units), Surface, (5 units)].
+Unknown7 has texts include [, Volume, (5 units), Volume, (5 units)].
+Unknown8 has texts include [, Chemistry, (2 units), Chemistry, (2 units)].
+Unknown9 has texts include [].
+Unknown10 has texts include [].
+Unknown11 has texts include [🇬🇧 English, 🇬🇧 English].
+Unknown12 has texts include [🇫🇷 Français, 🇫🇷 Français].
+Unknown13 has texts include [🇪🇸 Español, 🇪🇸 Español].
+Unknown14 has texts include [,  Dark mode, ,  Dark mode].
+The edit_texts in this activity is [].

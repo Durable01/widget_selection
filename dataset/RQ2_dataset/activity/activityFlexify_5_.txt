@@ -1,0 +1,27 @@
+
+We want to test "flexify" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [].
+Unknown5 has texts include [Theme, System].
+Unknown6 has texts include [Strength unit, kg].
+Unknown7 has texts include [Cardio unit, km].
+Unknown8 has texts include [Long date format (12/06/24), dd/MM/yy].
+Unknown9 has texts include [Short date format (12/6/24), d/M/yy].
+Unknown10 has texts include [Plan trailing display, Re-order].
+Unknown11 has texts include [3, Maximum sets].
+Unknown12 has texts include [3, Rest minutes].
+Unknown13 has texts include [30, seconds].
+Unknown14 has texts include [History, Tab 1 of 4].
+Unknown15 has texts include [Plans, Tab 2 of 4].
+Unknown16 has texts include [Graphs, Tab 3 of 4].
+Unknown17 has texts include [Timer, Tab 4 of 4].
+The edit_texts in this activity is [Unknown18, Unknown19, Unknown20, Unknown21].
+Unknown18 has texts include [].
+Unknown19 has texts include [3, Maximum sets].
+Unknown20 has texts include [3, Rest minutes].
+Unknown21 has texts include [30, seconds].

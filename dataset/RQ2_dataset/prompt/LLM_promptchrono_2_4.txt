@@ -1,0 +1,41 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14].
+Unknown1 has texts include [Settings].
+Unknown2 has texts include [7:08, 54, PM, Sun, Jun 9].
+Unknown3 has texts include [7:08, AM, New York City, 12h behind].
+Unknown4 has texts include [].
+Unknown5 has texts include [12:08, PM, London, 7h behind].
+Unknown6 has texts include [].
+Unknown7 has texts include [1:08, PM, Paris, 6h behind].
+Unknown8 has texts include [].
+Unknown9 has texts include [8:08, PM, Tokyo, 1h ahead].
+Unknown10 has texts include [].
+Unknown11 has texts include [Alarm, Tab 1 of 4].
+Unknown12 has texts include [Clock, Tab 2 of 4].
+Unknown13 has texts include [Timer, Tab 3 of 4].
+Unknown14 has texts include [Stopwatch, Tab 4 of 4].
+The edit_texts in this activity is [].
+
+I want to delete clock of London, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+
+Answer:
+###

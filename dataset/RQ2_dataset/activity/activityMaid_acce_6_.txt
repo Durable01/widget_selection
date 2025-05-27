@@ -1,0 +1,18 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7].
+Unknown1 has texts include [back].
+Unknown2 has texts include [Reset].
+Unknown3 has texts include [API key].
+Unknown4 has texts include [256, Npredict].
+Unknown5 has texts include [0.95, TopP].
+Unknown6 has texts include [40, TopK].
+Unknown7 has texts include [0.8, Temperature].
+The edit_texts in this activity is [Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown8 has texts include [API key].
+Unknown9 has texts include [256, Npredict].
+Unknown10 has texts include [0.95, TopP].
+Unknown11 has texts include [40, TopK].
+Unknown12 has texts include [0.8, Temperature].

@@ -1,0 +1,33 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9].
+Unknown1 has texts include [back to last page].
+Unknown2 has texts include [Save Changes].
+Unknown3 has texts include [Reset All].
+Unknown4 has texts include [Load Image].
+Unknown5 has texts include [Save Image].
+Unknown6 has texts include [Save STV2 JSON].
+Unknown7 has texts include [Save MCF JSON].
+Unknown8 has texts include [Switch Character].
+Unknown9 has texts include [Load JSON].
+The edit_texts in this activity is [Unknown10, Unknown11].
+Unknown10 has texts include [Switch Character].
+Unknown11 has texts include [The {{char}} is a chatbot that acts as a personal assistant and companion to the user., Description].
+I want to reset all settings, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: input texts in Unknown12
+13: input texts in Unknown13

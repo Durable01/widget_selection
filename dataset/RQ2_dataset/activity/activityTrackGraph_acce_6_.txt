@@ -1,0 +1,20 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, add_reminder_2, reminderNameText_3, timeText_4, deleteButton_5, monBox_6, tueBox_7, wedBox_8, thuBox_9, friBox_10, satBox_11, sunBox_12, saveChangesButton_13].
+Unknown1 has texts include [Open navigate bar].
+add_reminder_2 has texts include [Add].
+reminderNameText_3 has texts include [name, Time to track!].
+timeText_4 has texts include [21:17].
+deleteButton_5 has texts include [Delete Reminder].
+monBox_6 has texts include [Mon].
+tueBox_7 has texts include [Tue].
+wedBox_8 has texts include [Wen].
+thuBox_9 has texts include [Thu].
+friBox_10 has texts include [Fri].
+satBox_11 has texts include [Sat].
+sunBox_12 has texts include [Sun].
+saveChangesButton_13 has texts include [SAVE CHANGES].
+The edit_texts in this activity is [saveChangesButton_14].
+saveChangesButton_14 has texts include [name, Time to track!].

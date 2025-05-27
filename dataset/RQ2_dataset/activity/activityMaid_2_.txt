@@ -1,0 +1,13 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6].
+Unknown1 has texts include [].
+Unknown2 has texts include [Customize].
+Unknown3 has texts include [Browse].
+Unknown4 has texts include [New Chat].
+Unknown5 has texts include [New Chat].
+Unknown6 has texts include [].
+The edit_texts in this activity is [].
+

@@ -1,0 +1,37 @@
+
+We want to test "mHabit" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown1 has texts include [Close].
+Unknown2 has texts include [Open Discord webside].
+Unknown3 has texts include [Play ping-pong].
+Unknown4 has texts include [Deep lilac].
+Unknown5 has texts include [Positive].
+Unknown6 has texts include [Daliy goal, default 1].
+Unknown7 has texts include [Daliy goal unit].
+Unknown8 has texts include [Desired maximum daily goal].
+Unknown9 has texts include [Daily].
+Unknown10 has texts include [Sat, Jun 8, 2024].
+Unknown11 has texts include [66 days].
+Unknown12 has texts include [Reminder].
+The edit_texts in this activity is [].
+I want to close this page, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: input texts in Unknown13
+14: input texts in Unknown14
+15: input texts in Unknown15
+16: input texts in Unknown16

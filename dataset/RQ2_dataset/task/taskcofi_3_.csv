@@ -1,0 +1,15 @@
+task,right_answer,acce
+I want to set the icon of this recipe,1,1
+I want to set name of this recipe "cappuccino",2,0
+I want to set name of this recipe "cappuccino",15,0
+I want to add description "A cup of Coffee",3,0
+I want to add description "A cup of Coffee",16,0
+I want to input the name of coffee "Coffee beans",8,0
+I want to input the name of coffee "Coffee beans",17,0
+I want to set duration(s) "50",9,0
+I want to set duration(s) "50",18,0
+I want to know more about duration(s),10,1
+I want to set the weight of coffee "250",11,0
+I want to set the weight of coffee "250",19,0
+I want to save the coffee,12,2
+I want to save this page,14,1

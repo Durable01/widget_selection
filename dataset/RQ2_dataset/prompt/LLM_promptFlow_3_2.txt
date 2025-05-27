@@ -1,0 +1,34 @@
+
+We want to test "Flow" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8].
+Unknown1 has texts include [Local, 0, Dismiss].
+Unknown2 has texts include [Local, Source].
+Unknown3 has texts include [].
+Unknown4 has texts include [Name].
+Unknown5 has texts include [0, priority].
+Unknown6 has texts include [Todo].
+Unknown7 has texts include [Cancel].
+Unknown8 has texts include [Create].
+The edit_texts in this activity is [Unknown9, Unknown10, Unknown11].
+Unknown9 has texts include [Local, Source].
+Unknown10 has texts include [Name].
+Unknown11 has texts include [0, priority].
+I want to select more source, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: input texts in Unknown9
+10: input texts in Unknown10
+11: input texts in Unknown11
+
+Answer:
+###

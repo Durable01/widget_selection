@@ -1,0 +1,11 @@
+task,right_answer,acce
+I want to turn on navigation,1,0
+I want to open navigation,1,0
+I want to click on "chat" activity,5,0
+I want to click the first tracked data menu button,6,0
+I want to click the tracked data menu button following the "Chat" activity,6,0
+I want to add a data point button for "chat" activity,7,0
+I want to click on "Swimming" activity,10,0
+I want to click the third tracked data menu button,11,0
+I want to click the tracked data menu button following the "Chat" activity,11,0
+I want to track all,12,0

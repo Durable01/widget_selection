@@ -1,0 +1,18 @@
+
+We want to test "flexify" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [Monday, Deadlift, Lat pull-down, Barbell bent-over row, Barbell biceps curl].
+Unknown5 has texts include [Wednesday, Barbell bench press, Barbell shoulder press, Chest fly, Dumbbell lateral raise, Triceps extension].
+Unknown6 has texts include [Friday, Squat, Leg press, Leg curl, Seated calf raise].
+Unknown7 has texts include [].
+Unknown8 has texts include [History, Tab 1 of 4].
+Unknown9 has texts include [Plans, Tab 2 of 4].
+Unknown10 has texts include [Graphs, Tab 3 of 4].
+Unknown11 has texts include [Timer, Tab 4 of 4].
+The edit_texts in this activity is [Unknown12].
+Unknown12 has texts include [].

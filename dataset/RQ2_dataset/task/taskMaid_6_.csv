@@ -1,0 +1,11 @@
+task,right_answer,acce
+I want to back to last page,1,1
+I want to reset parameters,2,0
+I want to change Npredict from 256 to 1024,3,1
+I want to change TopP from 0.95 to 0.3,4,0
+I want to change TopK from 40 to 4,5,0
+I want to change Temperature from 0.8 to 3,6,0
+I want to change Npredict from 256 to 1024,7,0
+I want to change TopP from 0.95 to 0.3,8,1
+I want to change TopK from 40 to 4,9,0
+I want to change Temperature from 0.8 to 3,10,0

@@ -1,0 +1,37 @@
+
+We want to test "mHabit" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown1 has texts include [Close this page and back to last page].
+Unknown2 has texts include [Save changes of this activity 'Play ping-pong'].
+Unknown3 has texts include [Activity name, Play ping-pong. This name cannot be changed].
+Unknown4 has texts include [Color, Deep lilac. The color will show on the main page].
+Unknown5 has texts include [Class, Positive. Positive class is the more the better, while negative class is the less the better].
+Unknown6 has texts include [Daliy goal, default 1. You can set the goal of this habit, how many times you do it in a period].
+Unknown7 has texts include [Daliy, goal unit. You can set the unit of this habit, for example, time, minutes].
+Unknown8 has texts include [Desired maximum daily goal, 3. It limits the max times you can do in a period].
+Unknown9 has texts include [Time, Daily. You can set the length of the period, for example, daily, weekly, monthly].
+Unknown10 has texts include [Start time, Sat, Jun 8, 2024].
+Unknown11 has texts include [Duration, 66 days].
+Unknown12 has texts include [Set Reminder. This function will bind the activity to your calendar].
+The edit_texts in this activity is [].
+I want to set date, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: input texts in Unknown13
+14: input texts in Unknown14
+15: input texts in Unknown15
+16: input texts in Unknown16

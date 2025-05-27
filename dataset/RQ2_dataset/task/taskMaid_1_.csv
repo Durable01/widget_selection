@@ -1,0 +1,6 @@
+task,right_answer,acce
+I want to open navigation menu,1,0
+I want to change the type of LLM,2,1
+I want to check more info,3,1
+I want to input prompt "Hello I am John" to textbox,4,3
+I want to send prompt,5,3

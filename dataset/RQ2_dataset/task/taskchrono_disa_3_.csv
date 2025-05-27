@@ -1,0 +1,11 @@
+task,right_answer,acce
+I want to back to main menu,1,1
+I want to cancel changes,2,1
+I want to save changes,3,0
+I want to add a label of this alarm,5,0
+I want to change type,6,1
+I want to switch on delete after dismiss,7,0
+I want to switch on delete after dismiss,8,1
+I want to change melody,10,1
+I want to switch on vibration,11,0
+I want to switch on vibration,12,1

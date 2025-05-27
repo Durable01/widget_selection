@@ -1,0 +1,28 @@
+
+We want to test "Pain Diary" app. 
+The current page is "activities.UserDetailsActivity".
+This app allows you to make daily diary entries recording your condition and the intensity, location, nature and time of the pain you feel, as well as the medication you take and additional notes.
+The main view of this app is a calendar. You can add a new diary entry by selecting a day in this calendar. You will then be asked to answer questions regarding your condition and the pain you are experiencing.
+The widgets in this activity is [Unknown1, action_save_2, pain_stabbing_3, pain_dull_4, pain_shooting_5, pain_burning_6, pain_throbbing_7, btn_back_8, btn_next_9].
+Unknown1 has texts include [Navigate up].
+action_save_2 has texts include [Save].
+pain_stabbing_3 has texts include [stabbing].
+pain_dull_4 has texts include [dull].
+pain_shooting_5 has texts include [shooting].
+pain_burning_6 has texts include [burning].
+pain_throbbing_7 has texts include [throbbing].
+btn_back_8 has texts include [BACK].
+btn_next_9 has texts include [Open Discord webside].
+The edit_texts in this activity is [].
+I want to back to last page, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click action_save_2
+3: Click pain_stabbing_3
+4: Click pain_dull_4
+5: Click pain_shooting_5
+6: Click pain_burning_6
+7: Click pain_throbbing_7
+8: Click btn_back_8
+9: Click btn_next_9

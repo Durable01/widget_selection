@@ -1,0 +1,11 @@
+1: Click left_1
+2: Click icon-search_2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click icon-compact-mode_6
+7: Click note-item-0_7
+8: Click listitem.menu_8
+9: Click note-item-1_9
+10: Click listitem.menu_10
+11: Click buttons.add_11

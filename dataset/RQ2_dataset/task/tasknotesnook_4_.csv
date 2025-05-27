@@ -1,0 +1,9 @@
+task,right_answer,acce
+I want to open navigation,1,4
+I want to search notes,2,4
+I want to login,3,4
+I want to check recent notes,4,0
+I want to change sort rule from default to date,5,4
+I want to check "2024-06-09" note,6,4
+I want to get more options of "2024-06-09"note,7,1
+I want to add a new note,11,4

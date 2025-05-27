@@ -1,0 +1,16 @@
+task,right_answer,acce
+I want to go to the navigation bar,1,0
+I want to save these changes,2,0
+I want to add a medicine I took today,3,1
+I want to remove the first medicine,5,1
+I want to input the name of this medicine I took today which name is "Aspirin",4,0
+I want to input the quantity of this medicine I took today which is "1",6,0
+I want to input the quantity of this medicine I took today which is "1",13,0
+I want to input the quantity of this medicine I took in the morning which is "1",7,0
+I want to input the quantity of this medicine I took in the morning which is "1",14,0
+I want to input the quantity of this medicine I took in the noon which is "1",8,0
+I want to input the quantity of this medicine I took in the noon which is "1",15,0
+I want to input the quantity of this medicine I took in the evening which is "1",9,0
+I want to input the quantity of this medicine I took in the evening which is "1",16,0
+I want to input the quantity of this medicine I took in the night which is "1",10,0
+I want to input the quantity of this medicine I took in the evening which is "1",17,0

@@ -1,0 +1,35 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17, Unknown18, Unknown19, Unknown20, Unknown21, Unknown22, Unknown23, button_24, button_25, Unknown26, Unknown27, Unknown28].
+Unknown1 has texts include [settings].
+Unknown2 has texts include [back].
+Unknown3 has texts include [Collection].
+Unknown4 has texts include [Closet Info].
+Unknown5 has texts include [filter by color].
+Unknown6 has texts include [sort clothes].
+Unknown7 has texts include [search].
+Unknown8 has texts include [Regular].
+Unknown9 has texts include [Stylish Shorts].
+Unknown10 has texts include [Meeting].
+Unknown11 has texts include [Ice Cream].
+Unknown12 has texts include [Last Added, Last Added].
+Unknown13 has texts include [Last Added, Last Added].
+Unknown14 has texts include [Name Asc, Name Asc].
+Unknown15 has texts include [Name Asc, Name Asc].
+Unknown16 has texts include [Name Desc, Name Desc].
+Unknown17 has texts include [Name Desc, Name Desc].
+Unknown18 has texts include [Purchase Date Asc, Purchase Date Asc].
+Unknown19 has texts include [Purchase Date Asc, Purchase Date Asc].
+Unknown20 has texts include [Purchase Date Desc, Purchase Date Desc].
+Unknown21 has texts include [Purchase Date Desc, Purchase Date Desc].
+Unknown22 has texts include [Season not specified].
+Unknown23 has texts include [Category Filter].
+button_24 has texts include [Reset].
+button_25 has texts include [Close].
+Unknown26 has texts include [My closet].
+Unknown27 has texts include [add new].
+Unknown28 has texts include [Outfit Log].
+The edit_texts in this activity is [].
+

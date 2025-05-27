@@ -1,0 +1,31 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [groupFragment_1, remindersFragment_2, notesFragment_3, backupAndRestoreFragment_4, FAQFragment_5, rateAppRedirectFragment_6, aboutPageFragment_7, themeSpinner_8, menuSpinner_9, dateFormatSpinner_10, menuSpinner_11].
+groupFragment_1 has texts include [Home page].
+remindersFragment_2 has texts include [Reminders].
+notesFragment_3 has texts include [Notes].
+backupAndRestoreFragment_4 has texts include [Backup and Restore].
+FAQFragment_5 has texts include [FAQ].
+remindersFragment_6 has texts include [Reminders].
+aboutPageFragment_7 has texts include [About].
+themeSpinner_8 has texts include [Theme:, System Default].
+menuSpinner_9 has texts include [System Default].
+dateFormatSpinner_10 has texts include [Date format:, dd/mm/yy].
+menuSpinner_11 has texts include [dd/mm/yy].
+The edit_texts in this activity is [].
+I want to set notes, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click groupFragment_1
+2: Click remindersFragment_2
+3: Click notesFragment_3
+4: Click backupAndRestoreFragment_4
+5: Click FAQFragment_5
+6: Click rateAppRedirectFragment_6
+7: Click aboutPageFragment_7
+8: Click themeSpinner_8
+9: Click menuSpinner_9
+10: Click dateFormatSpinner_10
+11: Click menuSpinner_11

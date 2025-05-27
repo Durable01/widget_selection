@@ -1,0 +1,10 @@
+1: Click Unknown1
+2: Click icon-button_2
+3: Click search-bar_3
+4: Click icon-button_4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click button_9
+10: input texts in button_10

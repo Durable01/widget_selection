@@ -1,0 +1,17 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [Enabled].
+Unknown3 has texts include [Enabled, Off].
+Unknown4 has texts include [5.0, length, minutes].
+Unknown5 has texts include [3, Max Snoozes, times].
+Unknown6 has texts include [Prevent Disabling].
+Unknown7 has texts include [Prevent Disabling, Off].
+Unknown8 has texts include [Prevent Deletion].
+Unknown9 has texts include [Prevent Deletion, Off].
+The edit_texts in this activity is [Unknown10, Unknown11].
+Unknown10 has texts include [5.0, length, minutes].
+Unknown11 has texts include [3, Max Snoozes, times].

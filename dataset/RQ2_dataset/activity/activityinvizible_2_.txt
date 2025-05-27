@@ -1,0 +1,14 @@
+
+We want to test "invizible" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7].
+Unknown1 has texts include [Navigate up].
+Unknown2 has texts include [Start sharing on boot].
+Unknown3 has texts include [Allow Tor sharing, Please configure the use of proxy server in the settings of the connected device. Default values: IP:10.1.10.1 Port:8118].
+Unknown4 has texts include [Open tethering config].
+Unknown5 has texts include [ARP spoofing detection, Detect Man-in-the-Middle ARP spoofing and rogue DHCP attacks in Wi-Fi networks.].
+Unknown6 has texts include [Block internet when an attack is detected, Internet connection will be blocked during attack].
+Unknown7 has texts include [DNS rebinding protection, Block site when DNS rebinding attack is detected].
+The edit_texts in this activity is [].
+

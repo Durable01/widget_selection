@@ -1,0 +1,12 @@
+
+We want to test "Easter_Eggs" app. 
+The current page is "views.main.EasterEggsActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6].
+Unknown1 has texts include [].
+Unknown2 has texts include [Froyo, Android 2.2 (Froyo)].
+Unknown3 has texts include [Android 2.2 (Froyo)].
+Unknown4 has texts include [Easter Eggs].
+Unknown5 has texts include [Feedback].
+Unknown6 has texts include [].
+The edit_texts in this activity is [].

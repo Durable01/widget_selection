@@ -1,0 +1,17 @@
+task,right_answer,acce
+I want to open navigation,1,0
+I want to add reminder,2,0
+I want to change name from "Time to track!" to "Good Evening",3,0
+I want to change name from "Time to track!" to "Good Evening",14,0
+I want to set reminder time from "21:17" to "23:35",4,0
+I want to delete reminder,5,0
+I want to open this reminder on Monday,6,0
+I want to open this reminder on Mon,6,0
+I want to switch on Mon,6,0
+I want to open this reminder on Tuesday,7,0
+I want to open this reminder on Wednesday,8,0
+I want to open this reminder on Thursday,9,0
+I want to open this reminder on Friday,10,0
+I want to open this reminder on Saturday,11,0
+I want to open this reminder on Sunday,12,0
+I want to save changes,13,0

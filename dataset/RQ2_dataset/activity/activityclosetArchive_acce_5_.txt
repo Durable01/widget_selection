@@ -1,0 +1,37 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17, Unknown18, Unknown19, Unknown20, Unknown21, Unknown22, Unknown23, Unknown24, Unknown25, Unknown26, Unknown27, Unknown28, Unknown29, Unknown30].
+Unknown1 has texts include [settings].
+Unknown2 has texts include [back].
+Unknown3 has texts include [Collection].
+Unknown4 has texts include [Closet Info].
+Unknown5 has texts include [filter by color].
+Unknown6 has texts include [sort clothes].
+Unknown7 has texts include [search].
+Unknown8 has texts include [Regular].
+Unknown9 has texts include [Stylish Shorts].
+Unknown10 has texts include [Meeting].
+Unknown11 has texts include [Ice Cream].
+Unknown12 has texts include [Yellow].
+Unknown13 has texts include [Yellow_orange].
+Unknown14 has texts include [Yellow_green].
+Unknown15 has texts include [Orange].
+Unknown16 has texts include [Green].
+Unknown17 has texts include [Red_orange].
+Unknown18 has texts include [Blue_green].
+Unknown19 has texts include [Red].
+Unknown20 has texts include [Blue].
+Unknown21 has texts include [Red_violet].
+Unknown22 has texts include [Blue_violet].
+Unknown23 has texts include [Violet].
+Unknown24 has texts include [Black].
+Unknown25 has texts include [White].
+Unknown26 has texts include [Gray].
+Unknown27 has texts include [Unknown].
+Unknown28 has texts include [My closet].
+Unknown29 has texts include [add new].
+Unknown30 has texts include [Outfit Log].
+The edit_texts in this activity is [].
+

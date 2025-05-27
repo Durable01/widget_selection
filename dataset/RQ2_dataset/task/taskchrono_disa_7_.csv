@@ -1,0 +1,13 @@
+task,right_answer,acce
+I want to back to last page,1,0
+I want to change language,2,0
+I want to change display,3,0
+I want to change date format,4,1
+I want to change long date format,5,1
+I want to change time format,6,1
+I want to change the first day of week,7,1
+I want to switch on show seconds,8,0
+I want to switch on show seconds,9,1
+I want to change time picker,10,0
+I want to change duration picker,11,0
+I want to change swipe action,12,0

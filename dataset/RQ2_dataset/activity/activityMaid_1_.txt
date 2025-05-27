@@ -1,0 +1,10 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3].
+Unknown1 has texts include [Open navigation menu].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+The edit_texts in this activity is [].
+

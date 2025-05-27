@@ -1,0 +1,18 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, icon-button_2, search-bar_3, icon-button_4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [filter].
+icon-button_2 has texts include [search].
+search-bar_3 has texts include [search].
+icon-button_4 has texts include [clear].
+Unknown5 has texts include [Meet My Girlfriend, 07/06/2024, 5:01 PM, X, Stylish Shorts, Ice Cream].
+Unknown6 has texts include [X, delete].
+Unknown7 has texts include [Stylish Shorts].
+Unknown8 has texts include [Ice Cream].
+Unknown9 has texts include [My closet].
+Unknown10 has texts include [add new].
+Unknown11 has texts include [Outfit Log].
+The edit_texts in this activity is [Unknown12].
+Unknown12 has texts include [search].

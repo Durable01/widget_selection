@@ -1,0 +1,29 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10].
+Unknown1 has texts include [Settings].
+Unknown2 has texts include [No alarms created].
+Unknown3 has texts include [Date].
+Unknown4 has texts include [State].
+Unknown5 has texts include [Date].
+Unknown6 has texts include [Sort].
+Unknown7 has texts include [Alarm, Tab 1 of 4].
+Unknown8 has texts include [Clock, Tab 2 of 4].
+Unknown9 has texts include [Timer, Tab 3 of 4].
+Unknown10 has texts include [Stopwatch, Tab 4 of 4].
+The edit_texts in this activity is [].
+I want to change date, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10

@@ -1,0 +1,14 @@
+task,right_answer,acce
+I want to back to last page,1,0
+I want to save changes,2,0
+I want to reset all,3,0
+I want to load image,4,0
+I want to save image,5,0
+I want to save STV2 JSON,6,0
+I want to save MCF JSON,7,0
+I want to switch character,8,0
+I want to load JSON,9,0
+I want to change name from "Maid" to "Teacher",10,0
+I want to change name from "Maid" to "Teacher",12,0
+I want to change description from 'The {{char}} is a chatbot that acts as a personal assistant and companion to the user.' to 'The {{char}} is a chatbot that acts as a teacher",11,0
+I want to change description from 'The {{char}} is a chatbot that acts as a personal assistant and companion to the user.' to 'The {{char}} is a chatbot that acts as a teacher",13,0

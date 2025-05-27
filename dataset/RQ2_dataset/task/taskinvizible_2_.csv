@@ -1,0 +1,8 @@
+task,right_answer,acce
+I want to open navigation,1,0
+I want to start sharding on boot,2,0
+I want to switch on allowing tor sharding,3,0
+I want to switch off open tethering config,4,0
+I want to switch on ARP spoofing detection,5,0
+I want to switch on Block internet when an attack is detected,6,0
+I want to switch on DNS rebinging protection,7,0

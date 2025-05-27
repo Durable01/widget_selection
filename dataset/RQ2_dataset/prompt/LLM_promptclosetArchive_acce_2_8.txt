@@ -1,0 +1,50 @@
+
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, text-input-outlined_2, Unknown3, Unknown4, Unknown5, Unknown6, text-input-outlined_7, Unknown8, text-input-outlined_9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15].
+Unknown1 has texts include [Add picture].
+text-input-outlined_2 has texts include [Name].
+Unknown3 has texts include [randomly roll an name].
+Unknown4 has texts include [Type].
+Unknown5 has texts include [Fit].
+Unknown6 has texts include [Season].
+text-input-outlined_7 has texts include [1, quantity].
+Unknown8 has texts include [Unit, quantity].
+text-input-outlined_9 has texts include [size].
+Unknown10 has texts include [Purchase Date, 07/06/2024].
+Unknown11 has texts include [Collection].
+Unknown12 has texts include [automatic color selection].
+Unknown13 has texts include [primary color].
+Unknown14 has texts include [secondary color].
+Unknown15 has texts include [].
+The edit_texts in this activity is [Unknown16, Unknown17, Unknown18].
+Unknown16 has texts include [ , Name].
+Unknown17 has texts include [1, quantity].
+Unknown18 has texts include [ , size].
+
+I want to set the quantity from "1" to "3", then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click text-input-outlined_2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click text-input-outlined_7
+8: Click Unknown8
+9: Click text-input-outlined_9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+15: Click Unknown15
+16: input texts in Unknown16
+17: input texts in Unknown17
+18: input texts in Unknown18
+
+Answer:
+###

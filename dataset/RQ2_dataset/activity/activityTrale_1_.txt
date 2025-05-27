@@ -1,0 +1,11 @@
+
+We want to test "Trale" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5].
+Unknown1 has texts include [].
+Unknown2 has texts include [Home, Tab 1 of 3].
+Unknown3 has texts include [Achievements, Tab 2 of 3].
+Unknown4 has texts include [Tab 3 of 3, +, press + to get started].
+Unknown5 has texts include [].
+The edit_texts in this activity is [].

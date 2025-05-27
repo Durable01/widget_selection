@@ -1,0 +1,39 @@
+
+We want to test "chrono" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [Cancel].
+Unknown3 has texts include [Save].
+Unknown4 has texts include [7:10, PM].
+Unknown5 has texts include [Label, Add a label].
+Unknown6 has texts include [Type, Once].
+Unknown7 has texts include [Delete After Dismiss].
+Unknown8 has texts include [Delete After Dismiss, Off].
+Unknown9 has texts include [Sound and Vibration, More].
+Unknown10 has texts include [Melody, Default].
+Unknown11 has texts include [Vibration].
+Unknown12 has texts include [].
+Unknown13 has texts include [Snooze, More, Vibration, off].
+The edit_texts in this activity is [].
+
+I want to add a label of this alarm, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+
+Answer:
+###

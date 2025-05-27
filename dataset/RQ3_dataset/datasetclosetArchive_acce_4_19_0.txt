@@ -1,0 +1,23 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, text-input-outlined_2, Unknown3, text-input-outlined_4, button_5].
+Unknown1 has texts include [back].
+text-input-outlined_2 has texts include [ , Event Name].
+Unknown3 has texts include [Event Date, 07/06/2024, 5:01 pm].
+text-input-outlined_4 has texts include [ , Additional notes].
+button_5 has texts include [Save].
+The edit_texts in this activity is [button_6, button_7].
+Unknown6 has texts include [back].
+button_7 has texts include [ , Additional notes].
+I want to back to last page, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click text-input-outlined_2
+3: Click Unknown3
+4: Click text-input-outlined_4
+5: Click button_5
+6: input texts in button_6
+7: input texts in button_7

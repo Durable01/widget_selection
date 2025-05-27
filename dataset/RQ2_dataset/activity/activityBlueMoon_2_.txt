@@ -1,0 +1,40 @@
+
+We want to test "BlueMoon" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17, Unknown18, Unknown19, Unknown20, Unknown21, Unknown22, Unknown23, Unknown24, Unknown25, Unknown26, Unknown27, Unknown28, Unknown29, Unknown30, Unknown31, Unknown32, Unknown33].
+Unknown1 has texts include [1].
+Unknown2 has texts include [2].
+Unknown3 has texts include [3].
+Unknown4 has texts include [4].
+Unknown5 has texts include [5].
+Unknown6 has texts include [6].
+Unknown7 has texts include [7].
+Unknown8 has texts include [8].
+Unknown9 has texts include [9].
+Unknown10 has texts include [10].
+Unknown11 has texts include [11].
+Unknown12 has texts include [12].
+Unknown13 has texts include [13].
+Unknown14 has texts include [14].
+Unknown15 has texts include [15].
+Unknown16 has texts include [16].
+Unknown17 has texts include [17].
+Unknown18 has texts include [18].
+Unknown19 has texts include [19].
+Unknown20 has texts include [20].
+Unknown21 has texts include [21].
+Unknown22 has texts include [22].
+Unknown23 has texts include [23].
+Unknown24 has texts include [24].
+Unknown25 has texts include [25].
+Unknown26 has texts include [26].
+Unknown27 has texts include [27].
+Unknown28 has texts include [28].
+Unknown29 has texts include [29].
+Unknown30 has texts include [30].
+Unknown31 has texts include [].
+Unknown32 has texts include [Overview].
+Unknown33 has texts include [Settings].
+The edit_texts in this activity is [].
+

@@ -1,0 +1,17 @@
+
+We want to test "Easter_Eggs" app. 
+The current page is "views.main.EasterEggsActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [Close navigation menu].
+Unknown2 has texts include [Theme].
+Unknown3 has texts include [Icon Shape].
+Unknown4 has texts include [Language].
+Unknown5 has texts include [Icon Visual Effects].
+Unknown6 has texts include [].
+Unknown7 has texts include [OS Timeline].
+Unknown8 has texts include [Components Manager].
+Unknown9 has texts include [Retain recent Easter Egg tasks, Retain Easter Egg tasks on Recents screen, maximum of 5 retained tasks (Not available for Activity Embedded Mode.)].
+Unknown10 has texts include [].
+Unknown11 has texts include [].
+The edit_texts in this activity is [].

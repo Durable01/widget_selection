@@ -1,0 +1,47 @@
+
+We want to test "Pain Diary" app. 
+The current page is "activities.UserDetailsActivity".
+This app allows you to make daily diary entries recording your condition and the intensity, location, nature and time of the pain you feel, as well as the medication you take and additional notes.
+The main view of this app is a calendar. You can add a new diary entry by selecting a day in this calendar. You will then be asked to answer questions regarding your condition and the pain you are experiencing.
+The widgets in this activity is [Unknown1, action_save_2, Unknown3, medication_name_4, remove_5, dose_6, quantity_morning_7, quantity_noon_8, quantity_evening_9, quantity_night_10, btn_back_11, btn_next_12].
+Unknown1 has texts include [Navigate up].
+action_save_2 has texts include [Save].
+Unknown3 has texts include [].
+medication_name_4 has texts include [Name].
+remove_5 has texts include [].
+dose_6 has texts include [Dose].
+quantity_morning_7 has texts include [0].
+quantity_noon_8 has texts include [0].
+quantity_evening_9 has texts include [0].
+quantity_night_10 has texts include [0].
+btn_back_11 has texts include [BACK].
+btn_next_12 has texts include [NEXT].
+The edit_texts in this activity is [btn_next_13, btn_next_14, btn_next_15, btn_next_16, btn_next_17].
+btn_next_13 has texts include [Dose].
+btn_next_14 has texts include [0].
+btn_next_15 has texts include [0].
+btn_next_16 has texts include [0].
+btn_next_17 has texts include [0].
+I want to input the quantity of this medicine I took today which is "1", then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click action_save_2
+3: Click Unknown3
+4: Click medication_name_4
+5: Click remove_5
+6: Click dose_6
+7: Click quantity_morning_7
+8: Click quantity_noon_8
+9: Click quantity_evening_9
+10: Click quantity_night_10
+11: Click btn_back_11
+12: Click btn_next_12
+13: input texts in btn_next_13
+14: input texts in btn_next_14
+15: input texts in btn_next_15
+16: input texts in btn_next_16
+17: input texts in btn_next_17
+
+Answer:
+###

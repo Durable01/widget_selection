@@ -1,0 +1,5 @@
+1: Click left_1
+2: Click icon-search_2
+3: Click Unknown3
+4: Click Unknown4
+5: Click buttons.add_5

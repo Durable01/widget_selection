@@ -1,0 +1,39 @@
+
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, import_button_2, export_button_3, Unknown4, cardView_5, menuButton_6, playTimerButton_7, cardView_8, menuButton_9, cardView_10, menuButton_11, queueAddAllButton_12].
+Unknown1 has texts include [Open navigate bar].
+import_button_2 has texts include [Import].
+export_button_3 has texts include [Export].
+Unknown4 has texts include [More options].
+cardView_5 has texts include [Chat, 0 minutes ago].
+menuButton_6 has texts include [Tracked data menu button].
+playTimerButton_7 has texts include [Add a data point button].
+cardView_8 has texts include [Eating cherry, No Data].
+menuButton_9 has texts include [Tracked data menu button].
+cardView_10 has texts include [Swimming, No Data].
+menuButton_11 has texts include [Tracked data menu button].
+queueAddAllButton_12 has texts include [Track all].
+The edit_texts in this activity is [].
+
+
+I want to click the tracked data menu button following the "Chat" activity, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click import_button_2
+3: Click export_button_3
+4: Click Unknown4
+5: Click cardView_5
+6: Click menuButton_6
+7: Click playTimerButton_7
+8: Click cardView_8
+9: Click menuButton_9
+10: Click cardView_10
+11: Click menuButton_11
+12: Click queueAddAllButton_12
+
+Answer:
+###

@@ -1,0 +1,17 @@
+1: Click Unknown1
+2: Click action_save_2
+3: Click Unknown3
+4: Click medication_name_4
+5: Click remove_5
+6: Click dose_6
+7: Click quantity_morning_7
+8: Click quantity_noon_8
+9: Click quantity_evening_9
+10: Click quantity_night_10
+11: Click btn_back_11
+12: Click btn_next_12
+13: input texts in btn_next_13
+14: input texts in btn_next_14
+15: input texts in btn_next_15
+16: input texts in btn_next_16
+17: input texts in btn_next_17

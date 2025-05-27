@@ -1,0 +1,19 @@
+
+We want to test "Flow" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [Local, Dismiss].
+Unknown2 has texts include [Local, source].
+Unknown3 has texts include [].
+Unknown4 has texts include [Name].
+Unknown5 has texts include [Group, Not set].
+Unknown6 has texts include [].
+Unknown7 has texts include [Place, Not set].
+Unknown8 has texts include [].
+Unknown9 has texts include [Blocked].
+Unknown10 has texts include [Cancel].
+Unknown11 has texts include [Save].
+The edit_texts in this activity is [Unknown12, Unknown13].
+Unknown12 has texts include [Local, source].
+Unknown13 has texts include [Name].

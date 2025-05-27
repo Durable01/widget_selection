@@ -1,0 +1,44 @@
+
+We want to test "flexify" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15].
+Unknown1 has texts include [].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [Weighted Russian twist, 12/06/24, 30.0 x 25.0 kg].
+Unknown5 has texts include [Arnold press, 12/06/24, 0.0 x 0.0 kg].
+Unknown6 has texts include [Back extension, 12/06/24, 0.0 x 0.0 kg].
+Unknown7 has texts include [Barbell bench press, 12/06/24, 0.0 x 0.0 kg].
+Unknown8 has texts include [Barbell bent-over row, 12/06/24, 0.0 x 0.0 kg].
+Unknown9 has texts include [Barbell biceps curl, 12/06/24, 0.0 x 0.0 kg].
+Unknown10 has texts include [Barbell shoulder press, 12/06/24, 0.0 x 0.0 kg].
+Unknown11 has texts include [].
+Unknown12 has texts include [History, Tab 1 of 4].
+Unknown13 has texts include [Plans, Tab 2 of 4].
+Unknown14 has texts include [Graphs, Tab 3 of 4].
+Unknown15 has texts include [Timer, Tab 4 of 4].
+The edit_texts in this activity is [Unknown16].
+Unknown16 has texts include [].
+I want to change Arnold press, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+15: Click Unknown15
+16: input texts in Unknown16
+
+Answer:
+###

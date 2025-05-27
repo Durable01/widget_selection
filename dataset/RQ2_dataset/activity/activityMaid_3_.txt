@@ -1,0 +1,19 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [].
+Unknown2 has texts include [Save Changes].
+Unknown3 has texts include [Reset All].
+Unknown4 has texts include [Load Image].
+Unknown5 has texts include [Save Image].
+Unknown6 has texts include [Save STV2 JSON].
+Unknown7 has texts include [Save MCF JSON].
+Unknown8 has texts include [Switch Character].
+Unknown9 has texts include [Load JSON].
+Unknown10 has texts include [Maid, Name, Name].
+Unknown11 has texts include [The {{char}} is a chatbot that acts as a personal assistant and companion to the user., Description].
+The edit_texts in this activity is [Unknown12, Unknown13].
+Unknown12 has texts include [Maid, Name].
+Unknown13 has texts include [The {{char}} is a chatbot that acts as a personal assistant and companion to the user., Description].

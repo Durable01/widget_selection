@@ -1,0 +1,19 @@
+
+We want to test "Easter_Eggs" app. 
+The current page is "views.main.EasterEggsActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13].
+Unknown1 has texts include [Close navigation menu].
+Unknown2 has texts include [Theme].
+Unknown3 has texts include [Default].
+Unknown4 has texts include [Light].
+Unknown5 has texts include [Dark].
+Unknown6 has texts include [Amoled].
+Unknown7 has texts include [Dynamic Color].
+Unknown8 has texts include [].
+Unknown9 has texts include [Icon Shape].
+Unknown10 has texts include [Language].
+Unknown11 has texts include [Default].
+Unknown12 has texts include [More].
+Unknown13 has texts include [].
+The edit_texts in this activity is [].

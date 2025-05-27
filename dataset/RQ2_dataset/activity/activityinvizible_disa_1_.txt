@@ -1,0 +1,18 @@
+
+We want to test "invizible" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, item_root_2, item_unlock_3, Unknown4, Unknown5, Unknown6, Unknown7, chbHideIpMainFragment_8, chbProtectDnsMainFragment_9, chbAccessITPMainFragment_10, btnStartMainFragment_11].
+Unknown1 has texts include [Open navigation drawer].
+item_root_2 has texts include [Root].
+item_unlock_3 has texts include [Child Lock].
+Unknown4 has texts include [More options].
+Unknown5 has texts include [].
+Unknown6 has texts include [].
+Unknown7 has texts include [].
+chbHideIpMainFragment_8 has texts include [Hide IP with TOR].
+chbProtectDnsMainFragment_9 has texts include [Defend with DNSCRYPT].
+chbAccessITPMainFragment_10 has texts include [Access to I2P network with Purple I2P].
+btnStartMainFragment_11 has texts include [].
+The edit_texts in this activity is [].
+

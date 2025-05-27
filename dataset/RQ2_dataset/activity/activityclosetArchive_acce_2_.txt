@@ -1,0 +1,24 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, text-input-outlined_2, Unknown3, Unknown4, Unknown5, Unknown6, text-input-outlined_7, Unknown8, text-input-outlined_9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15].
+Unknown1 has texts include [Add picture].
+text-input-outlined_2 has texts include [Name].
+Unknown3 has texts include [randomly roll an name].
+Unknown4 has texts include [Type].
+Unknown5 has texts include [Fit].
+Unknown6 has texts include [Season].
+text-input-outlined_7 has texts include [1, quantity].
+Unknown8 has texts include [Unit, quantity].
+text-input-outlined_9 has texts include [size].
+Unknown10 has texts include [Purchase Date, 07/06/2024].
+Unknown11 has texts include [Collection].
+Unknown12 has texts include [automatic color selection].
+Unknown13 has texts include [primary color].
+Unknown14 has texts include [secondary color].
+Unknown15 has texts include [].
+The edit_texts in this activity is [Unknown16, Unknown17, Unknown18].
+Unknown16 has texts include [ , Name].
+Unknown17 has texts include [1, quantity].
+Unknown18 has texts include [ , size].

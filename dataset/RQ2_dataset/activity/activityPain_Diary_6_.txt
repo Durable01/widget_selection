@@ -1,0 +1,14 @@
+
+We want to test "Pain Diary" app. 
+The current page is "activities.UserDetailsActivity".
+This app allows you to make daily diary entries recording your condition and the intensity, location, nature and time of the pain you feel, as well as the medication you take and additional notes.
+The main view of this app is a calendar. You can add a new diary entry by selecting a day in this calendar. You will then be asked to answer questions regarding your condition and the pain you are experiencing.
+The widgets in this activity is [nav_main_1, nav_user_details_2, nav_export_pdf_3, nav_tutorial_4, nav_settings_5, nav_help_6, nav_about_7].
+nav_main_1 has texts include [Main].
+nav_user_details_2 has texts include [User Details].
+nav_export_pdf_3 has texts include [PDF Export].
+nav_tutorial_4 has texts include [Tutorial].
+nav_settings_5 has texts include [Settings].
+nav_help_6 has texts include [Help].
+nav_about_7 has texts include [About].
+The edit_texts in this activity is [].

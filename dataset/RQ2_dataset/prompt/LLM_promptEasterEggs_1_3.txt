@@ -1,0 +1,21 @@
+
+We want to test "Easter_Eggs" app. 
+The current page is "views.main.EasterEggsActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4].
+Unknown1 has texts include [Vanilla Ice Cream, Android 15 (Vanilla Ice Cream), API 35].
+Unknown2 has texts include [Android 14 Easter Egg, Android 14 (Upside Down Cake)].
+Unknown3 has texts include [Paint Chips].
+Unknown4 has texts include [].
+The edit_texts in this activity is [].
+
+I want to know Paint Chips, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+
+Answer:
+###

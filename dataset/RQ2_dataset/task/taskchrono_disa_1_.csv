@@ -1,0 +1,10 @@
+task,right_answer,acce
+I want to set settings,1,0
+I want to filter alarms by date,3,0
+I want to filter alarms by state,4,0
+I want to filter alarms by tags,5,0
+I want to sort alarms,6,1
+I want to go to alarm page,7,1
+I want to go to clock page,8,1
+I want to go to timer page,9,1
+I want to go to stopwatch page,10,0

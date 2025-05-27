@@ -1,0 +1,22 @@
+
+We want to test "mHabit" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12].
+Unknown1 has texts include [Close].
+Unknown2 has texts include [Save].
+Unknown3 has texts include [Play ping-pong].
+Unknown4 has texts include [Deep lilac].
+Unknown5 has texts include [Positive].
+Unknown6 has texts include [Daliy goal, default 1].
+Unknown7 has texts include [Daliy goal unit].
+Unknown8 has texts include [Desired maximum daily goal].
+Unknown9 has texts include [Daily].
+Unknown10 has texts include [Sat, Jun 8, 2024].
+Unknown11 has texts include [66 days].
+Unknown12 has texts include [Reminder].
+The edit_texts in this activity is [Unknown13, Unknown14, Unknown15, Unknown16].
+Unknown13 has texts include [Play ping-pong].
+Unknown14 has texts include [Daliy goal, default 1].
+Unknown15 has texts include [Daliy goal unit].
+Unknown16 has texts include [Desired maximum daily goal].

@@ -1,0 +1,15 @@
+
+We want to test "Flow" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8].
+Unknown1 has texts include [].
+Unknown2 has texts include [Open navigation menu].
+Unknown3 has texts include [].
+Unknown4 has texts include [].
+Unknown5 has texts include [Done].
+Unknown6 has texts include [In progress].
+Unknown7 has texts include [Todo].
+Unknown8 has texts include [Create].
+The edit_texts in this activity is [].
+

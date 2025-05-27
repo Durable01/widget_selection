@@ -1,0 +1,9 @@
+task,right_answer,acce
+I want to filter events,1,4
+I want to search events called "Meeting",2,0
+I want to search events called "Meeting",3,1
+I want to search events called "Meeting",12,1
+I want to see the details of the event "Meet My Girlfriend",5,0
+I want to clear the search textbox,4,0
+I want to delete the event "Meet My Girlfriend",6,0
+I want to add a new event,10,1

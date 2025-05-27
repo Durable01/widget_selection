@@ -1,0 +1,20 @@
+
+We want to test "menu_generator" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, table-search_6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13].
+Unknown1 has texts include [Open main menu].
+Unknown2 has texts include [Open main menu].
+Unknown3 has texts include [Add meal].
+Unknown4 has texts include [June].
+Unknown5 has texts include [Category].
+table-search_6 has texts include [Search by name].
+Unknown7 has texts include [NAME].
+Unknown8 has texts include [LIGHT].
+Unknown9 has texts include [MEAT].
+Unknown10 has texts include [START].
+Unknown11 has texts include [END].
+Unknown12 has texts include [SOURCE].
+Unknown13 has texts include [].
+The edit_texts in this activity is [Unknown14].
+Unknown14 has texts include [Search by name].

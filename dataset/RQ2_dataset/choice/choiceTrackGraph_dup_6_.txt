@@ -1,0 +1,14 @@
+1: Click Unknown1
+2: Click add_reminder_2
+3: Click reminderNameText_3
+4: Click timeText_4
+5: Click deleteButton_5
+6: Click monBox_6
+7: Click tueBox_7
+8: Click wedBox_8
+9: Click thuBox_9
+10: Click friBox_10
+11: Click satBox_11
+12: Click sunBox_12
+13: Click saveChangesButton_13
+14: input texts in saveChangesButton_14

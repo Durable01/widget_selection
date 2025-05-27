@@ -1,0 +1,26 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8].
+Unknown1 has texts include [back to last page].
+Unknown2 has texts include [Graph name:].
+Unknown3 has texts include [Line Graph].
+Unknown4 has texts include [All Data].
+Unknown5 has texts include [Last Data Point].
+Unknown6 has texts include [Dynamic].
+Unknown7 has texts include [Add].
+Unknown8 has texts include [Create].
+The edit_texts in this activity is [].
+I want to add a new graph, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: input texts in Unknown9

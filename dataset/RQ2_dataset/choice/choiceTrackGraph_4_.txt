@@ -1,0 +1,12 @@
+1: Click Unknown1
+2: Click import_button_2
+3: Click export_button_3
+4: Click Unknown4
+5: Click cardView_5
+6: Click menuButton_6
+7: Click playTimerButton_7
+8: Click cardView_8
+9: Click menuButton_9
+10: Click cardView_10
+11: Click menuButton_11
+12: Click queueAddAllButton_12

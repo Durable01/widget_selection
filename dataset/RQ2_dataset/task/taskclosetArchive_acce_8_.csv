@@ -1,0 +1,12 @@
+task,right_answer,acce
+I want to go back last menu,1,0
+I want to set my name "John",2,0
+I want to set my name "John",10,0
+I want to set language,3,0
+I want to export data,4,0
+I want to import from file,5,0
+I want to set laundry reminder from "5" to "15",6,0
+I want to set laundry reminder from "5" to "15",11,0
+I want to switch off times,7,0
+I want to turn on daily logging reminder,8,0
+I want to turn on enable heatmap,9,0

@@ -1,0 +1,54 @@
+
+We want to test "flexify" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17].
+Unknown1 has texts include [Back].
+Unknown2 has texts include [].
+Unknown3 has texts include [].
+Unknown4 has texts include [].
+Unknown5 has texts include [Theme, System].
+Unknown6 has texts include [Strength unit, kg].
+Unknown7 has texts include [Cardio unit, km].
+Unknown8 has texts include [Long date format (12/06/24), dd/MM/yy].
+Unknown9 has texts include [Short date format (12/6/24), d/M/yy].
+Unknown10 has texts include [Plan trailing display, Re-order].
+Unknown11 has texts include [3, Maximum sets].
+Unknown12 has texts include [3, Rest minutes].
+Unknown13 has texts include [30, seconds].
+Unknown14 has texts include [History, Tab 1 of 4].
+Unknown15 has texts include [Plans, Tab 2 of 4].
+Unknown16 has texts include [Graphs, Tab 3 of 4].
+Unknown17 has texts include [Timer, Tab 4 of 4].
+The edit_texts in this activity is [Unknown18, Unknown19, Unknown20, Unknown21].
+Unknown18 has texts include [].
+Unknown19 has texts include [3, Maximum sets].
+Unknown20 has texts include [3, Rest minutes].
+Unknown21 has texts include [30, seconds].
+I want to search in this page, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+15: Click Unknown15
+16: Click Unknown16
+17: Click Unknown17
+18: input texts in Unknown18
+19: input texts in Unknown19
+20: input texts in Unknown20
+21: input texts in Unknown21
+
+Answer:
+###

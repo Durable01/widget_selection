@@ -1,0 +1,11 @@
+
+We want to test "Easter_Eggs" app. 
+The current page is "views.main.EasterEggsActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4].
+Unknown1 has texts include [Vanilla Ice Cream, Android 15 (Vanilla Ice Cream), API 35].
+Unknown2 has texts include [Android 14 Easter Egg, Android 14 (Upside Down Cake)].
+Unknown3 has texts include [Search…].
+Unknown4 has texts include [].
+The edit_texts in this activity is [Unknown5].
+Unknown5 has texts include [Search…].

@@ -1,0 +1,15 @@
+
+We want to test "BlueMoon" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8].
+Unknown1 has texts include [Birth Control, Enable tracking of birth control pill].
+Unknown2 has texts include [Reminders, Remind me in the case of an upcoming period].
+Unknown3 has texts include [Reminders, Remind me daily to track symptoms].
+Unknown4 has texts include [Reminders, Remind me to take the pill].
+Unknown5 has texts include [Backup Data].
+Unknown6 has texts include [Restore Data].
+Unknown7 has texts include [Overview].
+Unknown8 has texts include [Calendar].
+The edit_texts in this activity is [].
+

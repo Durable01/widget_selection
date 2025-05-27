@@ -1,0 +1,33 @@
+
+We want to test "Closet_archive" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, icon-button_2, search-bar_3, icon-button_4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11].
+Unknown1 has texts include [filter].
+icon-button_2 has texts include [search button].
+search-bar_3 has texts include [search bar].
+icon-button_4 has texts include [clear].
+Unknown5 has texts include [].
+Unknown6 has texts include [X, delete].
+Unknown7 has texts include [Stylish Shorts].
+Unknown8 has texts include [Ice Cream].
+Unknown9 has texts include [My closet].
+Unknown10 has texts include [add new].
+Unknown11 has texts include [Outfit Log].
+The edit_texts in this activity is [Unknown12].
+Unknown12 has texts include [search closets].
+I want to change the name of closet 'Ice Cream', then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click icon-button_2
+3: Click search-bar_3
+4: Click icon-button_4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: input texts in Unknown12

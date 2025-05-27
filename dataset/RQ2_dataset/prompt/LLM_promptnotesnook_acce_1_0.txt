@@ -1,0 +1,25 @@
+
+
+We want to test "notesnook" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [left_1, icon-search_2, Unknown3, Unknown4, buttons.add_5].
+left_1 has texts include [Navigate].
+icon-search_2 has texts include [search].
+Unknown3 has texts include [You are not logged in, Login to encrypt and sync notes].
+Unknown4 has texts include [TIP].
+buttons.add_5 has texts include [Add your first note].
+The edit_texts in this activity is [].
+
+
+I want to open navigation, then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click left_1
+2: Click icon-search_2
+3: Click Unknown3
+4: Click Unknown4
+5: Click buttons.add_5
+
+Answer:
+###

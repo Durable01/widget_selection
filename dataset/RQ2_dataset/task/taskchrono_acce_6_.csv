@@ -1,0 +1,12 @@
+task,right_answer,acce
+I want to back to main menu,1,0
+I want to search for settings,2,0
+I want to set General part,3,0
+I want to set Appearence part,4,0
+I want to set Alarm part,5,0
+I want to set Timer part,6,0
+I want to set Stopwatch part,7,0
+I want to set Widgets part,8,0
+I want to set Accessibility,9,0
+I want to backup,10,0
+I want to set developer options,11,0

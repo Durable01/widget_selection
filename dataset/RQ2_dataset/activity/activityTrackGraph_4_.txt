@@ -1,0 +1,19 @@
+
+We want to test "Maid" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, import_button_2, export_button_3, Unknown4, cardView_5, menuButton_6, playTimerButton_7, cardView_8, menuButton_9, cardView_10, menuButton_11, queueAddAllButton_12].
+Unknown1 has texts include [Open].
+import_button_2 has texts include [Import].
+export_button_3 has texts include [Export].
+Unknown4 has texts include [More options].
+cardView_5 has texts include [Chat, 0 minutes ago].
+menuButton_6 has texts include [Tracked data menu button].
+playTimerButton_7 has texts include [Add a data point button].
+cardView_8 has texts include [Eating cherry, No Data].
+menuButton_9 has texts include [Tracked data menu button].
+cardView_10 has texts include [Swimming, No Data].
+menuButton_11 has texts include [Tracked data menu button].
+queueAddAllButton_12 has texts include [Track all].
+The edit_texts in this activity is [].
+

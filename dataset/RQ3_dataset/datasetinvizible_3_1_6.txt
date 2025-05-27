@@ -1,0 +1,23 @@
+
+We want to test "invizible" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7].
+Unknown1 has texts include [Navigate up].
+Unknown2 has texts include [Refresh rules, Update rules on every connectivity change].
+Unknown3 has texts include [Prevent device sleep, Do not allow the device to fall into doze mode. May be useful when using HOTSPOT. Drains the battery!].
+Unknown4 has texts include [Compatibility mode, Enable if your device with a custom rom and the connection is lost when you press the START button].
+Unknown5 has texts include [Multi-user support, Support for Dual Apps, MIUI, Island, Shelter and Work profile applications. May be ineffective in VPN mode].
+Unknown6 has texts include [].
+Unknown7 has texts include [Enable script control, Use the following command to manage application modules: "am broadcast -a pan.alexander.tordnscrypt.SHELL_SCRIPT_CONTROL --ei dnscrypt 1 --ei tor 1 --ei i2p 1 pan.alexander.tordnscrypt.stable". Where 1 - starts, 0 - stops the module.].
+The edit_texts in this activity is [].
+I want to enable script control, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7

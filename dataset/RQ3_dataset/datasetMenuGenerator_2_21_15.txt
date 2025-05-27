@@ -1,0 +1,56 @@
+
+We want to test "menu_generator" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, Unknown6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13, Unknown14, Unknown15, Unknown16, Unknown17].
+Unknown1 has texts include [Open Discord webside].
+Unknown2 has texts include [Add meal].
+Unknown3 has texts include [Close modal].
+Unknown4 has texts include [Light].
+Unknown5 has texts include [Meat].
+Unknown6 has texts include [January].
+Unknown7 has texts include [December].
+Unknown8 has texts include [Open Discord webside].
+Unknown9 has texts include [Add].
+Unknown10 has texts include [June].
+Unknown11 has texts include [Category].
+Unknown12 has texts include [NAME].
+Unknown13 has texts include [LIGHT].
+Unknown14 has texts include [MEAT].
+Unknown15 has texts include [START].
+Unknown16 has texts include [END].
+Unknown17 has texts include [SOURCE].
+The edit_texts in this activity is [Unknown18, Unknown19, Unknown20].
+Unknown18 has texts include [Name].
+Unknown19 has texts include [Source].
+table-search_20 has texts include [Search by name].
+I want to end recording, then what operation is required? Please choose your operation from choices below following the format: 
+If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: Click Unknown14
+15: Click Unknown15
+16: Click Unknown16
+17: Click table-search_17
+18: Click Unknown18
+19: Click Unknown19
+20: Click Unknown20
+21: Click Unknown21
+22: Click Unknown22
+23: Click Unknown23
+24: Click Unknown24
+25: input texts in Unknown25
+26: input texts in Unknown26
+27: input texts in Unknown27

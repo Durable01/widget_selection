@@ -1,0 +1,18 @@
+
+We want to test "Pain Diary" app. 
+The current page is "activities.UserDetailsActivity".
+This app allows you to make daily diary entries recording your condition and the intensity, location, nature and time of the pain you feel, as well as the medication you take and additional notes.
+The main view of this app is a calendar. You can add a new diary entry by selecting a day in this calendar. You will then be asked to answer questions regarding your condition and the pain you are experiencing.
+The widgets in this activity is [first_name_1, last_name_2, date_of_birth_3, gender_male_4, gender_female_5, btn_cancel_6, btn_save_7, Unknown8].
+first_name_1 has texts include [Hua].
+last_name_2 has texts include [Li].
+date_of_birth_3 has texts include [04.12.2007].
+gender_male_4 has texts include [male].
+gender_female_5 has texts include [female].
+btn_cancel_6 has texts include [CANCEL].
+btn_save_7 has texts include [SAVE].
+Unknown8 has texts include [Navigate up].
+The edit_texts in this activity is [Unknown9, Unknown10, Unknown11].
+Unknown9 has texts include [Hua].
+Unknown10 has texts include [Li].
+Unknown11 has texts include [04.12.2007].

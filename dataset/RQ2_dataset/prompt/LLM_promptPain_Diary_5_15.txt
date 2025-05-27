@@ -1,0 +1,95 @@
+
+We want to test "Pain Diary" app. 
+The current page is "activities.UserDetailsActivity".
+This app allows you to make daily diary entries recording your condition and the intensity, location, nature and time of the pain you feel, as well as the medication you take and additional notes.
+The main view of this app is a calendar. You can add a new diary entry by selecting a day in this calendar. You will then be asked to answer questions regarding your condition and the pain you are experiencing.
+The widgets in this activity is [Unknown1, action_save_2, Unknown3, medication_name_4, remove_5, dose_6, quantity_morning_7, quantity_noon_8, quantity_evening_9, quantity_night_10, medication_name_11, remove_12, dose_13, quantity_morning_14, quantity_noon_15, quantity_evening_16, quantity_night_17, medication_name_18, remove_19, dose_20, quantity_morning_21, quantity_noon_22, quantity_evening_23, quantity_night_24, btn_back_25, btn_next_26].
+Unknown1 has texts include [Navigate up].
+action_save_2 has texts include [Save].
+Unknown3 has texts include [].
+medication_name_4 has texts include [Medicine-A].
+remove_5 has texts include [].
+dose_6 has texts include [24].
+quantity_morning_7 has texts include [6].
+quantity_noon_8 has texts include [6].
+quantity_evening_9 has texts include [6].
+quantity_night_10 has texts include [6].
+medication_name_11 has texts include [Medicine-B].
+remove_12 has texts include [].
+dose_13 has texts include [2].
+quantity_morning_14 has texts include [0].
+quantity_noon_15 has texts include [1].
+quantity_evening_16 has texts include [0].
+quantity_night_17 has texts include [1].
+medication_name_18 has texts include [Medicine-D].
+remove_19 has texts include [].
+dose_20 has texts include [4].
+quantity_morning_21 has texts include [1].
+quantity_noon_22 has texts include [1].
+quantity_evening_23 has texts include [1].
+quantity_night_24 has texts include [1].
+btn_back_25 has texts include [BACK].
+btn_next_26 has texts include [NEXT].
+The edit_texts in this activity is [btn_next_27, btn_next_28, btn_next_29, btn_next_30, btn_next_31, btn_next_32, btn_next_33, btn_next_34, btn_next_35, btn_next_36, btn_next_37, btn_next_38, btn_next_39, btn_next_40, btn_next_41].
+btn_next_27 has texts include [24].
+btn_next_28 has texts include [6].
+btn_next_29 has texts include [6].
+btn_next_30 has texts include [6].
+btn_next_31 has texts include [6].
+btn_next_32 has texts include [2].
+btn_next_33 has texts include [0].
+btn_next_34 has texts include [1].
+btn_next_35 has texts include [0].
+btn_next_36 has texts include [1].
+btn_next_37 has texts include [4].
+btn_next_38 has texts include [1].
+btn_next_39 has texts include [1].
+btn_next_40 has texts include [1].
+btn_next_41 has texts include [1].
+I want to remove the first medicine "Medicine-A", then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click action_save_2
+3: Click Unknown3
+4: Click medication_name_4
+5: Click remove_5
+6: Click dose_6
+7: Click quantity_morning_7
+8: Click quantity_noon_8
+9: Click quantity_evening_9
+10: Click quantity_night_10
+11: Click medication_name_11
+12: Click remove_12
+13: Click dose_13
+14: Click quantity_morning_14
+15: Click quantity_noon_15
+16: Click quantity_evening_16
+17: Click quantity_night_17
+18: Click medication_name_18
+19: Click remove_19
+20: Click dose_20
+21: Click quantity_morning_21
+22: Click quantity_noon_22
+23: Click quantity_evening_23
+24: Click quantity_night_24
+25: Click btn_back_25
+26: Click btn_next_26
+27: input texts in btn_next_27
+28: input texts in btn_next_28
+29: input texts in btn_next_29
+30: input texts in btn_next_30
+31: input texts in btn_next_31
+32: input texts in btn_next_32
+33: input texts in btn_next_33
+34: input texts in btn_next_34
+35: input texts in btn_next_35
+36: input texts in btn_next_36
+37: input texts in btn_next_37
+38: input texts in btn_next_38
+39: input texts in btn_next_39
+40: input texts in btn_next_40
+41: input texts in btn_next_41
+
+Answer:
+###

@@ -1,0 +1,16 @@
+1: Click Notes_1
+2: Click Notebooks_2
+3: Click Favorites_3
+4: Click Tags_4
+5: Click Reminders_5
+6: Click Monographs_6
+7: Click Trash_7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click left_12
+13: Click Unknown13
+14: Click Unknown14
+15: Click note-item-0_15
+16: Click note-item-1_16

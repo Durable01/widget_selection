@@ -1,0 +1,40 @@
+
+We want to test "menu_generator" app. 
+The current page is "MainActivity".
+
+The widgets in this activity is [Unknown1, Unknown2, Unknown3, Unknown4, Unknown5, table-search_6, Unknown7, Unknown8, Unknown9, Unknown10, Unknown11, Unknown12, Unknown13].
+Unknown1 has texts include [Open main menu].
+Unknown2 has texts include [Open main menu].
+Unknown3 has texts include [Add meal].
+Unknown4 has texts include [June].
+Unknown5 has texts include [Category].
+table-search_6 has texts include [Search by name].
+Unknown7 has texts include [NAME].
+Unknown8 has texts include [LIGHT].
+Unknown9 has texts include [MEAT].
+Unknown10 has texts include [START].
+Unknown11 has texts include [END].
+Unknown12 has texts include [SOURCE].
+Unknown13 has texts include [].
+The edit_texts in this activity is [Unknown14].
+Unknown14 has texts include [Search by name].
+I want to change month from "June" to "July", then what operation is required? Please choose your operation from choices below following the format: 
+ If you choose 'X: Click xxx', you should answer 'X: Click xxx', where X is the number of the choice. If you choose 'X: input texts in xxx', you should answer 'X: input texts in xxx, text is "str"', where X is the number of choice, and str is the texts you want to put in.
+Please do not copy all choices below, just give only one right answer.
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click table-search_6
+7: Click Unknown7
+8: Click Unknown8
+9: Click Unknown9
+10: Click Unknown10
+11: Click Unknown11
+12: Click Unknown12
+13: Click Unknown13
+14: input texts in Unknown14
+
+Answer:
+###
