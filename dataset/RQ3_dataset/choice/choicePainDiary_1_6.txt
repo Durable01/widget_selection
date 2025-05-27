@@ -1,0 +1,9 @@
+1: Click Unknown1
+2: Click action_save_2
+3: Click pain_stabbing_3
+4: Click Unknown4
+5: Click pain_shooting_5
+6: Click Unknown6
+7: Click Unknown7
+8: Click btn_back_8
+9: Click btn_next_9

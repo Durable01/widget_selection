@@ -1,0 +1,7 @@
+1: Click Unknown1
+2: Click Unknown2
+3: Click nav_export_pdf_3
+4: Click nav_tutorial_4
+5: Click Unknown5
+6: Click Unknown6
+7: Click nav_about_7

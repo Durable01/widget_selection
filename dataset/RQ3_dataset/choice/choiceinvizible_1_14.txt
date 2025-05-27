@@ -1,0 +1,11 @@
+1: Click Unknown1
+2: Click item_root_2
+3: Click Unknown3
+4: Click Unknown4
+5: Click Unknown5
+6: Click Unknown6
+7: Click Unknown7
+8: Click chbHideIpMainFragment_8
+9: Click Unknown9
+10: Click chbAccessITPMainFragment_10
+11: Click Unknown11

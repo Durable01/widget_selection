@@ -1,0 +1,7 @@
+1: Click Unknown1
+2: Click Unknown2
+3: Click Unknown3
+4: Click text-input-outlined_4
+5: Click Unknown5
+6: input texts in button_6
+7: Click Unknown7
