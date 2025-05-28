@@ -42,3 +42,27 @@ When using the dataset to test the performance of LLMs, use files in <code>promp
 
 ## RQ4_screenshots
 15 screenshots of GUI page in RQ3 are stored in this folder. They are used in multi-modal scenarios of RQ4. 
+
+# Code of the paper
+
+For the RQ2 part, two jupyter files <code> RQ2_experiment </code> and <code> RQ2_Statistic </code> are programmed.
+
+<code> RQ2_experiment </code> utilizes open_source LLMs, which are download from Modelscope. Please refer to documents of those model to configure. It uses dataset of RQ2, and output textual logs of LLMs' result, and analyse their selection results to file.
+
+<code> RQ2_Statistic </code> using selection results to calculate the hit ratio and variability of those models, and output the result tables to file.
+
+For the RQ3 and RQ4 part, two jupyter files <code> RQ3_experiment </code> and <code> Get_RQ3_statistic </code> are programmed. Target of those files are similar to those in RQ2.
+
+Except packages used by LLMs, packages below are used in our code:
+
+<code>
+
+    pandas version == 2.1.1
+    numpy version == 1.26.0
+    
+    // Use pip to install as example.
+    pip install pandas==2.1.1
+    pip install numpy==1.26.0
+</code>
+
+
